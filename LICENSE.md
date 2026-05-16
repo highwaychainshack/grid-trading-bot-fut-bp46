@@ -1,4 +1,4 @@
-# 
+# grid trading bot for futures vip Automation | slippage-control & liquidity-provision offers the most advanced grid trading bot for futures, with slippage-control and
 
 
 
